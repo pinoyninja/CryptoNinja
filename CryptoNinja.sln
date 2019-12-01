@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoNinja", "CryptoNinja\CryptoNinja.csproj", "{5637B5E3-19EF-4740-89D9-2AEF4FAFD73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoNinja.Tests", "CryptoNinja.Tests\CryptoNinja.Tests.csproj", "{0F66CC77-CC66-4BD1-B384-D9454EA4108D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5637B5E3-19EF-4740-89D9-2AEF4FAFD73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5637B5E3-19EF-4740-89D9-2AEF4FAFD73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5637B5E3-19EF-4740-89D9-2AEF4FAFD73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5637B5E3-19EF-4740-89D9-2AEF4FAFD73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F66CC77-CC66-4BD1-B384-D9454EA4108D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F66CC77-CC66-4BD1-B384-D9454EA4108D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F66CC77-CC66-4BD1-B384-D9454EA4108D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F66CC77-CC66-4BD1-B384-D9454EA4108D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE8D311E-348C-4A2E-9262-76EFEB949305}
+	EndGlobalSection
+EndGlobal
