@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoNinja", "CryptoNinja\CryptoNinja.csproj", "{5637B5E3-19EF-4740-89D9-2AEF4FAFD73D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoNinja.Tests", "CryptoNinja.Tests\CryptoNinja.Tests.csproj", "{0F66CC77-CC66-4BD1-B384-D9454EA4108D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoNinja.Tests", "CryptoNinja.Tests\CryptoNinja.Tests.csproj", "{0F66CC77-CC66-4BD1-B384-D9454EA4108D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F8F1E6E9-CDDB-4B17-B494-EFB2B3BF2B17}"
+	ProjectSection(SolutionItems) = preProject
+		CryptoNinja.nuspec = CryptoNinja.nuspec
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

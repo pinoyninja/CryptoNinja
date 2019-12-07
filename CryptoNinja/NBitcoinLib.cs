@@ -10,6 +10,13 @@ namespace CryptoNinja
     /// </summary>
     public class NBitcoinLib
     {
+        /// <summary>
+        /// Generate Key from Brainwallet Seed
+        /// </summary>
+        /// <param name="seed">Brainwallet Seed</param>
+        /// <param name="isCompressedKey">Is compressed?</param>
+        /// <param name="sha256">Sha256</param>
+        /// <returns></returns>
         public static Key FromBrainwalletSeed(string seed, bool isCompressedKey = false, int sha256 = 1)
         {
             if (sha256 < 1)
