@@ -7,6 +7,9 @@
     <owners>Pinoy Ninja</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <title>CryptoNinja</title>
+    <projectUrl>https://github.com/users/pinoyninja/projects/1</projectUrl>
+    <repository type="git" url="https://github.com/pinoyninja/CryptoNinja.git" branch="develop" />
+    <license type="expression">MIT</license>
     <description>---</description>
     <releaseNotes>---</releaseNotes>
     <copyright>Copyright 2019</copyright>
